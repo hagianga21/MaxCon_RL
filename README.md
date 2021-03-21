@@ -4,6 +4,7 @@ Unsupervised Learning for Robust Fitting: A Reinforcement Learning Approach
 
 Paper can be accessed at: https://arxiv.org/abs/2103.03501
 
+![](Data/results/demo.gif)
 # Pre-requisite
 ```
 - Pytorch
