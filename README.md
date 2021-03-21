@@ -11,16 +11,13 @@ Paper can be accessed at: https://arxiv.org/abs/2103.03501
 - cvxpy: pip install cvxpy
 ```
 # Usage
-- Download minimal data for the demo: 
-```
-python downloadData.py
-```
 - Run the inference using pre-trained model:
 ```
 python inference.py
 ```
-- Train the model
+- Download minimal data and train the model
 ```
+python downloadData.py
 python train.py
 ```
 # Citation
